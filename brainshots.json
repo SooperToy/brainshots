@@ -1,12 +1,12 @@
 [
     {
-      image : "http://soopertoy.github.io/brainshots/cleaning_cover.jpeg",
-      title : "24 laws of cleaning",
-      link : "itms://itunes.apple.com/us/app/apple-store/id375380948?mt=8"
+      "image" : "http://soopertoy.github.io/brainshots/cleaning_cover.jpeg",
+      "title" : "24 laws of cleaning",
+      "link" : "itms://itunes.apple.com/us/app/apple-store/id375380948?mt=8"
     },
     {
-      image : "http://soopertoy.github.io/brainshots/marketing_cover.jpeg",
-      title : "22 immutable laws of marketing",
-      link : "itms://itunes.apple.com/us/app/apple-store/id375380948?mt=8"
+      "image" : "http://soopertoy.github.io/brainshots/marketing_cover.jpeg",
+      "title" : "22 immutable laws of marketing",
+      "link" : "itms://itunes.apple.com/us/app/apple-store/id375380948?mt=8"
     }
 ]
